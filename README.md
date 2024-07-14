@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+I'm+Vini+Lazzeri!;🧙🏽‍♂+I'm+from+Brazil!;🧙🏽‍♂+I'm+a+junior+Android+Developer!;🧙🏽‍♂+I'm+looking+for+a+new+job+opportunity!;🧙🏽‍♂+Be+Welcome!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0074BA&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+I'm+Vini+Lazzeri!;🧙🏽‍♂+I'm+from+Brazil!;🧙🏽‍♂+I'm+a+junior+Android+Developer!;🧙🏽‍♂+I'm+looking+for+a+new+job+opportunity!;🧙🏽‍♂+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 **`Not a common dev (Android Developer/Computational Photography/Machine Learning)`**
 
