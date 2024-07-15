@@ -35,9 +35,12 @@ I'm a developer with a strong foundation in computer vision, artificial intellig
 
 ### 📊 Stats
 
-![Vini's Stats](https://github-readme-stats.vercel.app/api?username=vinilazzeri&theme=default&show_icons=true&hide_border=true&count_private=true)
+[![Vini's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinilazzeri&bg_color=ffffff&color=418bee&line=418bee&point=3ddc84&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Vini's Stats](https://github-readme-stats.vercel.app/api?username=vinilazzeri&theme=default&show_icons=true&hide_border=true&count_private=true) 
 ![Vini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinilazzeri&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+
 <!-- ![vinicius-lazzeri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lazzeri&theme=default&hide_border=true) -->
 
 #
