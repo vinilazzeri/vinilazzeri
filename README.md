@@ -25,9 +25,7 @@
 ### 🧰 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,mysql,firebase,windows,apple,git,figma,stackoverflow&perline=10)](https://skillicons.dev)
-
 <br />
-
 
 ---
 
