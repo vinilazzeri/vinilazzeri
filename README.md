@@ -10,13 +10,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-lazzeri/">
-    <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vinicius.lazzeri@gmail.com">
-    <img alt="Send me an e-mail!" title="Send me an e-mail!" src="https://img.shields.io/badge/Get%20in%20touch%20with%20me%20via%20-Gmail!-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Send me an e-mail!" title="Send me an e-mail!" src="https://img.shields.io/badge/Get%20in%20touch%20with%20me%20via-Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
@@ -30,6 +31,7 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img align="left" alt="iOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
