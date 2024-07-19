@@ -6,7 +6,10 @@
 **`Not a common dev (Android Native Developer & Computational Photography)`** 
 
 
-***I'm a developer with a strong foundation in computer vision, artificial intelligence, and Android development. I specialize in creating innovative solutions from planning and design to implementation, utilizing agile methodologies like Scrum. All my projects are built from the ground up, applying my skills in Java and Kotlin to solve real-world problems. My passion for continuous learning drives me to explore new technologies and refine my skills, always aiming to promote innovation and excellence in every project I undertake.*** 
+***I'm a Developer with a strong foundation in computational photography and native Android development.
+Familiar with agile methodologies such as Scrum and using Jira, I seek to apply my experience in industrial
+projects to stand out and contribute to new challenges. My dedication to continuous learning makes me an
+ideal collaborator to drive innovation and excellence in mobile development teams.*** 
 
 <p>
   <a href="https://www.linkedin.com/in/vinicius-lazzeri/" style="text-decoration: none; display: inline-block; margin-right: 20px;">
