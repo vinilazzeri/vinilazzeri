@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+I'm+Vini+Lazzeri!;🧙🏽‍♂+I'm+from+Brazil!;🧙🏽‍♂+I'm+a+Android+Developer!;🧙🏽‍♂+I'm+looking+for+a+new+job+opportunity!;🧙🏽‍♂+Be+Welcome!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+I'm+Vini+Lazzeri!;🧙🏽‍♂+I'm+from+Brazil!;🧙🏽‍♂+I'm+a+Mobile+Developer!;🧙🏽‍♂+Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img src='https://github.com/user-attachments/assets/59e0876a-3fd9-4c75-822a-d0e31446d738' align='left' width='212' style="margin-right: 10px;">
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
