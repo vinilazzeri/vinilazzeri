@@ -3,10 +3,10 @@
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
 
-**`Not a common dev (Android Native Developer & Computational Photography)`** 
+**`Not a common dev (Mobile Developer & Computational Photography)`** 
 
 
-***I'm a Developer with a strong foundation in computational photography and native Android development.
+***I'm a Developer with a strong foundation in computational photography and Mobile development.
 Familiar with agile methodologies such as Scrum and using Jira, I seek to apply my experience in industrial
 projects to stand out and contribute to new challenges. My dedication to continuous learning makes me an
 ideal collaborator to drive innovation and excellence in mobile development teams.*** 
