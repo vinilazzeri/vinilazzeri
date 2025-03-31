@@ -1,15 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+Welcome+to+Vini's+GitHub!;🧙🏽‍♂+I'm+a+AI+Developer!;🧙🏽‍♂+Generative+AI+and+Machine+Learning!;🧙🏽‍♂+and+sometimes+a+bit+of+Computer+Vision!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+Welcome+to+Vini's+GitHub!;🧙🏽‍♂+I'm+a+Fullstack+Developer!;🧙🏽‍♂+:%29)](https://git.io/typing-svg)
 <img src='https://github.com/user-attachments/assets/59e0876a-3fd9-4c75-822a-d0e31446d738' align='left' width='212' style="margin-right: 10px;">
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
 
-**`Gen AI | Machine Learning | Computer Vision | Python`** 
+**`Fullstack Developer | Python (FastAPI) | JavaScript (React) | AI Engineer`** 
 
 
-***I am an artificial intelligence engineer with experience in data science, computer vision, machine
-learning, and generative artificial intelligence. With a degree in Computer Engineering, I have
-developed innovative technological solutions for multinational clients at INDT and worked on
-freelance projects for clients in various industries.*** 
+***Computer Engineer with experience in Artificial Intelligence, transitioning to Fullstack Development. Expertise in Python (FastAPI, ML, Computer Vision), JavaScript/TypeScript (React, Node.js), and cloud solutions. At INDT, developed scalable AI solutions for multinational clients, integrating backend systems and optimizing performance. As a freelancer, delivered projects across industries, combining data-driven insights with robust web development. Now focusing on building end-to-end applications, from RESTful APIs (FastAPI) to dynamic frontends (React), leveraging my background in AI/ML to create intelligent, high-performance systems.*** 
 
 <p>
   <a href="https://www.linkedin.com/in/vinicius-lazzeri/" style="text-decoration: none; display: inline-block; margin-right: 20px;">
@@ -24,7 +21,7 @@ freelance projects for clients in various industries.***
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,opencv,firebase,windows,pytorch,tensorflow,git,docker,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,react,tailwind,fastapi,php,mysql,git,docker,linux&perline=10)](https://skillicons.dev)
 <br />
 
 ---
