@@ -3,7 +3,7 @@
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
 
-**`Android Native Developer | Java | Kotlin`** 
+**`Android Native Developer | Java & Kotlin`** 
 
 
 ***I'm a developer with a strong foundation in computer vision, artificial intelligence and Android development. I specialize in creating innovative solutions from planning and design to implementation, utilizing agile methodologies like Scrum. All my projects are built from the ground up, applying my skills in Java and Kotlin to solve real-world problems. My passion for continuous learning drives me to explore new technologies and refine my skills, always aiming to promote innovation and excellence in every project I undertake.*** 
