@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+Welcome+to+Vini's+GitHub!;🧙🏽‍♂+I'm+a+Fullstack+Developer!;🧙🏽‍♂+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+Welcome+to+Vini's+GitHub!;🧙🏽‍♂+I'm+a+Android+Developer!;🧙🏽‍♂+:%29)](https://git.io/typing-svg)
 <img src='https://github.com/user-attachments/assets/59e0876a-3fd9-4c75-822a-d0e31446d738' align='left' width='212' style="margin-right: 10px;">
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
@@ -6,7 +6,7 @@
 **`Fullstack Developer | Python (FastAPI) | JavaScript (React) | AI Engineer`** 
 
 
-***Computer Engineer with experience in Artificial Intelligence, transitioning to Fullstack Development. Expertise in Python (FastAPI, ML, Computer Vision), JavaScript/TypeScript (React, Node.js), and cloud solutions. At INDT, developed scalable AI solutions for multinational clients, integrating backend systems and optimizing performance. As a freelancer, delivered projects across industries, combining data-driven insights with robust web development. Now focusing on building end-to-end applications, from RESTful APIs (FastAPI) to dynamic frontends (React), leveraging my background in AI/ML to create intelligent, high-performance systems.*** 
+***I'm a developer with a strong foundation in computer vision, artificial intelligence and Android development. I specialize in creating innovative solutions from planning and design to implementation, utilizing agile methodologies like Scrum. All my projects are built from the ground up, applying my skills in Java and Kotlin to solve real-world problems. My passion for continuous learning drives me to explore new technologies and refine my skills, always aiming to promote innovation and excellence in every project I undertake.*** 
 
 <p>
   <a href="https://www.linkedin.com/in/vinicius-lazzeri/" style="text-decoration: none; display: inline-block; margin-right: 20px;">
@@ -21,7 +21,7 @@
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,react,tailwind,fastapi,php,mysql,git,docker,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,windows,firebase,mysql,git,docker&perline=10)](https://skillicons.dev)
 <br />
 
 ---
