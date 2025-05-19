@@ -20,7 +20,6 @@ Tenho experiência com metodologias ágeis (Scrum), trabalho em equipe multidisc
 - IA Generativa aplicada à automação e criatividade
 - Visão Computacional com YOLO e Deep Learning
 - Deploy de modelos com Docker, Streamlit e APIs
-- Projetos open source e colaborativos
 
 😄
 *** 
