@@ -1,27 +1,35 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1000&lines=🧙🏽‍♂+Bem+vindo+ao+meu+perfil!;🧙🏽‍♂+Sou+um+desenvolvedor+de+IA!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F80ED&size=35&center=true&vCenter=true&width=1300&lines=🧠+Welcome+to+my+profile!;🤖+I'm+an+AI+developer+passionate+about+Computer+Vision!;🧙🏽‍♂+Feel+free+to+explore+my+projects+and+...;reach+out+if+you’d+like+to+collaborate+or+chat+about+AI!)](https://git.io/typing-svg)
 <img src='https://github.com/user-attachments/assets/59e0876a-3fd9-4c75-822a-d0e31446d738' align='left' width='212' style="margin-right: 10px;">
 
 ![Vini's Profile Views](https://komarev.com/ghpvc/?username=vinilazzeri&color=blue)
 
-**`Visão Computacional | Inteligência Artificial | Machine Learning | Fotografia Computacional`** 
+**`👨‍💻 AI Engineer | Computer Vision Specialist | Deep Learning Enthusiast`** 
 
 
 ***
-👋 
-Sou Desenvolvedor de Software com formação em Engenharia da Computação e especialização em Fotografia Computacional, Visão Computacional, Aprendizado de Máquina e Inteligência Artificial Generativa.
 
-Atuei no desenvolvimento de soluções inovadoras tanto em ambientes corporativos quanto como freelancer, entregando projetos para clientes de diversos setores. Tive a oportunidade de colaborar em projetos de inspeção automática de placas eletrônicas (PCBs) com foco em tempo real, aplicando visão computacional no contexto da Indústria 4.0, através de um renomado instituto de tecnologia de Manaus.
+Hi! I’m a Computer Vision engineer with a background in Computer Engineering and a certification in Computational Photography. I build AI-powered systems with a focus on real-time perception, model training, and deployment.
 
-Tenho experiência com metodologias ágeis (Scrum), trabalho em equipe multidisciplinar e ferramentas como Jira, Docker, Git, PyTorch, TensorFlow, YOLO, OpenCV, entre outras. Gosto de resolver problemas complexos com soluções criativas e tecnicamente robustas.
+🔍 Areas I work with:
 
-🚀 Estou sempre em busca de novos desafios e aprendizados, com o objetivo de criar soluções tecnológicas que impactem positivamente o mundo.
+Object detection & tracking (YOLO, DeepSort, OpenCV)
 
-🔍 Meus focos atuais:
-- IA Generativa aplicada à automação e criatividade
-- Visão Computacional com YOLO e Deep Learning
-- Deploy de modelos com Docker, Streamlit e APIs
+Image classification (EfficientNet, custom CNNs)
 
-😄
+Dataset preparation, augmentation (Albumentations), and annotation
+
+Real-time inference pipelines (PyTorch, TensorFlow)
+
+🚀 Projects include:
+
+Retail analytics with surveillance footage;
+
+Real-time industrial inspection with AI;
+
+Freelance work and research mentorship in applied AI.
+
+🛠️ Always learning, always building.
+Let’s push the boundaries of what machines can see.
 *** 
 
 <p>
