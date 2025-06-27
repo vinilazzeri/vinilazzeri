@@ -20,6 +20,8 @@ Dataset preparation, augmentation (Albumentations), and annotation
 
 Real-time inference pipelines (PyTorch, TensorFlow)
 
+
+
 🚀 Projects include:
 
 Retail analytics with surveillance footage;
